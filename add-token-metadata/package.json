@@ -1,0 +1,17 @@
+{
+  "name": "add-token-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.17.2",
+    "@metaplex-foundation/mpl-token-metadata": "^2.3.3",
+    "@project-serum/anchor": "^0.25.0"
+  }
+}
